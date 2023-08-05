@@ -1,0 +1,20 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Welcome To My Website</title>
+        <link>http://example.org/posts/</link>
+        <description>All Posts | Welcome To My Website</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>fcfeugene@gmail (Eugene)</managingEditor>
+            <webMaster>fcfeugene@gmail (Eugene)</webMaster><lastBuildDate>Sun, 06 Aug 2023 01:32:21 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>My Projects</title>
+    <link>http://example.org/projects/</link>
+    <pubDate>Sun, 06 Aug 2023 01:32:21 &#43;0800</pubDate>
+    <author>Eugene</author>
+    <guid>http://example.org/projects/</guid>
+    <description><![CDATA[A list of some of my work:
+Flask web application
+Blackjack Game
+Beat That Game
+2D Side Scoller Game (Abandoned)]]></description>
+</item>
+</channel>
+</rss>
